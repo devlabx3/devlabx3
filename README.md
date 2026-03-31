@@ -43,10 +43,8 @@ Full-stack development, systems architecture, and innovative technology solution
 
 ## 📊 GitHub Analytics
 
-<a href="https://github.com/devlabx3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlabx3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlabx3&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlabx3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlabx3&layout=compact&langs_count=8&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devlabx3&theme=tokyonight&hide_border=false)
 
